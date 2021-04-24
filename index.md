@@ -13,7 +13,7 @@
 # Yuyang Sun 孙瑜阳
 
 
-## Welcome to My Web Pages
+Welcome to My Web Pages
 I'm now do the research in combining machine learning with biomedical topics at Kings' College London.
 
 My research profile is [Kings' research portal](https://kclpure.kcl.ac.uk/portal/en/persons/yuyang-sun(cbf450de-244c-4615-901e-2835b8afed02).html)
