@@ -4,17 +4,17 @@
 <body>
 <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
   <p align="center"><b> Yuyang Sun 孙瑜阳 </b></p>
-  <p align="center">sunyuyang@bupt.edu.cn</p>
+  <p align="center">yuyang.1.sun@kcl.ac.uk</p>
   <hr />
   <br />
 </table>          
 </body>
  
 # Yuyang Sun 孙瑜阳
-yuyang.1.sun@kcl.ac.uk
+
 
 ## Welcome to My Web Pages
-I'm now do the research in combining machine learning with medical and biomedical topics at Kings' College London.
+I'm now do the research in combining machine learning with biomedical topics at Kings' College London.
 
 My research profile is [Kings' research portal](https://kclpure.kcl.ac.uk/portal/en/persons/yuyang-sun(cbf450de-244c-4615-901e-2835b8afed02).html)
 
