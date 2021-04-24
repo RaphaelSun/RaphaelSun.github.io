@@ -11,13 +11,18 @@
 </body>
  
 # Yuyang Sun 孙瑜阳
+yuyang.1.sun@kcl.ac.uk
+
 ## Welcome to My Web Pages
+I'm now do the research in combining machine learning with medical and biomedical topics at Kings' College London.
 
-You can use the [editor on GitHub](https://github.com/RaphaelSun/RaphaelSun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My research profile is [Kings' research portal](https://kclpure.kcl.ac.uk/portal/en/persons/yuyang-sun(cbf450de-244c-4615-901e-2835b8afed02).html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And You can use the [linkedIn profile](https://www.linkedin.com/in/yuyang-sun-045171170/) to see my work profile.
 
-### Markdown
+### Publications
+
+Sorted by publication date
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
